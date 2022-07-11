@@ -18,4 +18,4 @@ From the terminal run -
 
 When ready, click the button to launch -
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_image=gcr.io/cloudshell-images/cloudshell&cloudshell_git_repo=https://github.com/spurin/cncf-psi-k8s-linux-simulator.git&cloudshell_tutorial=tutorial.md&shellonly=true)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_image=gcr.io/cloudshell-images/cloudshell&cloudshell_git_repo=https://github.com/EngMohamedElEmam/k8s-linux-simulator.git&cloudshell_tutorial=tutorial.md&shellonly=true)
